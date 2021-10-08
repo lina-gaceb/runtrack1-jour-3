@@ -1,0 +1,41 @@
+
+h1
+{
+    color: #F79A13;
+}
+
+body
+{
+  Background-image: url(SSI.jpg);
+}
+body
+{
+    color: white;
+}
+
+.pepe
+{
+    border-left: 5px solid #F79A13; ;
+}
+.vei
+ {
+    text-decoration: none;
+    height:50px;
+    font-size: 40px;
+ }
+   .vei:hover
+   {
+   text-decoration:underline;
+   color: red;
+}   
+
+body
+{
+  display:flex;
+}
+.video-texte
+{
+    display: flex;
+    flex-direction: column;
+}
+
